@@ -7,3 +7,7 @@ console.log('Hello World!');
 exports.funcTwo = () => {
     console.log('This is funcTwo');
 }
+// App 3 function
+exports.funcThree = () => {
+    console.log('This is funcThree');
+}
